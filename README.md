@@ -1,8 +1,11 @@
 # Tugas 9
 
 Membuat aplikasi daftar tempat wisata.
-
-## Getting Started
+Materi dalam tugas 9 sbb:
+- ListView dan GridView
+- Responsive Layout
+- Navigation
+- Melanjutkan Aplikasi Wisata
 
 Nama  : Icha Nur Yuliarahma
 Kelas : IK2B
