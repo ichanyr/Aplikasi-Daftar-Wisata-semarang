@@ -1,16 +1,17 @@
 # Tugas 9
 
 Membuat aplikasi daftar tempat wisata.
+
+- Nama  : Icha Nur Yuliarahma
+- Kelas : IK2B
+- Absen : 12
+- NIM   : 3.34.21.1.13
+
 Materi dalam tugas 9 sbb:
 - ListView dan GridView
 - Responsive Layout
 - Navigation
 - Melanjutkan Aplikasi Wisata
-
-Nama  : Icha Nur Yuliarahma
-Kelas : IK2B
-Absen : 12
-NIM   : 3.34.21.1.13
 
 ## Hasil
 ![Screenshot (47)](https://user-images.githubusercontent.com/114141633/200734088-ef38c38d-8ae4-4df0-841c-b42c35adeb2b.png)
